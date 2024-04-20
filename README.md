@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tugcekizildg
-- 👀 I’m interested in Web Technologies and Web Development.
+- 👀 I’m interested in Web Technologies, Web Design and Web Development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and PHP
 - 💞️ I’m looking to collaborate with FrontEnd Developers and Software Engineers.
 
