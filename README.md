@@ -3,7 +3,7 @@
 -  I’m currently building projects with HTML, CSS, JavaScript and GODOT.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma,tailwind,godot" />
   </a>
 </p>
 <!---
