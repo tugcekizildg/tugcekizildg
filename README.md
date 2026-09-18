@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @tugcekizildg
-- 👀 I’m interested in Web Technologies, Web Design and Web Development.
-- 🌱 I’m currently building projects with HTML, CSS, JavaScript and PHP.
-- 💞️ I’m looking to collaborate with FrontEnd Developers and Software Engineers.
-
+- Hi, I’m @tugcekizildg
+- I’m interested in Web Technologies, Web Design, Web Development and Game Development.
+-  I’m currently building projects with HTML, CSS, JavaScript and GODOT.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,tailwind" />
